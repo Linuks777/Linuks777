@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Linuks777
-- 👀 I’m interested in 🚀 Rust 🚀 and 🌚 lua 🌝
+- 👀 I’m interested in 🚀 Rust 🚀 and 🌚 Lua 🌝
 - 🌱 I’m currently learning 🚀 Rust 🚀
 
 <!---
